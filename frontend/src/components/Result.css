@@ -1,0 +1,21 @@
+.result-card {
+    padding: 15px;
+    margin-top: 20px;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
+  .phishing {
+    background-color: #ffcccc;
+    color: #900;
+  }
+  
+  .safe {
+    background-color: #ccffcc;
+    color: #090;
+  }
+  
+  .error {
+    color: red;
+  }
+  

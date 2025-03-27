@@ -1,0 +1,18 @@
+.title {
+    font-size: 48px;
+    font-weight: bold;
+}
+.subtitle {
+    font-size: 32px;
+    font-weight: bold;
+}
+.text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.names {
+    font-size: 24px;
+    margin-top: 5px;
+}
+

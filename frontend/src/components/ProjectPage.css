@@ -1,0 +1,40 @@
+/* ProjectPage.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+.container {
+    background-color: #e5e7eb;
+    margin-top: 15vh;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 75vw;
+    height: 65vh;
+}
+
+.button-container {
+    margin-top: 20px;
+    text-align: center;
+}
+.button {
+    background-color: #3b82f6;
+    color: white;
+    font-size:x-large;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    height: 8vh;
+    width: 20vw;
+}
+.button:hover {
+    background-color: #2563eb;
+}
